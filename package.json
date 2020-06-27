@@ -1,0 +1,23 @@
+{
+  "name": "electronjs-pokedex",
+  "version": "1.0.0",
+  "description": "Desktop Pokedex",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purab93/electronjs-pokedex.git"
+  },
+  "author": "Purab Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purab93/electronjs-pokedex/issues"
+  },
+  "homepage": "https://github.com/Purab93/electronjs-pokedex#readme",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  }
+}
